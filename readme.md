@@ -26,4 +26,4 @@ You can find a sample of the output here: [samplereport.pdf](./samplereport.pdf)
 History
 ===
 
-1/21/2019: Updated thanks to help/fixes from Surya Vikas.
+1/21/2019: Updated thanks to help/fixes from Surya Vikas Arvan (surya_vikas525@yahoo.com)
